@@ -7,4 +7,4 @@
 删除压缩包：`rm -f eclipse-inst-linux64.tar.gz`  
 定位到该文件夹：`cd /usr/local/eclipse`  
 执行`eclipse-inst`安装：`./eclipse-inst`  
-![运行结果](/图片1.png)
+![运行结果](/master/图片1.png)
